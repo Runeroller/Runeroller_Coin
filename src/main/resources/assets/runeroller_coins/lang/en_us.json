@@ -1,0 +1,13 @@
+{
+  "itemGroup.runeroller_coins": "Runeroller Coins",
+
+  "item.runeroller_coins.coin": "Coin",
+
+  "runeroller_coins.configuration.title": "Runeroller Coins Configs",
+  "runeroller_coins.configuration.section.runeroller_coins.common.toml": "Runeroller Coins Configs",
+  "runeroller_coins.configuration.section.runeroller_coins.common.toml.title": "Runeroller Coins Configs",
+  "runeroller_coins.configuration.items": "Item List",
+  "runeroller_coins.configuration.logDirtBlock": "Log Dirt Block",
+  "runeroller_coins.configuration.magicNumberIntroduction": "Magic Number Text",
+  "runeroller_coins.configuration.magicNumber": "Magic Number"
+}
